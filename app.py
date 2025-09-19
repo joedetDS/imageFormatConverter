@@ -339,7 +339,7 @@ def main():
     st.markdown("<br>")
     st.markdown("<div class='small'>Tip: For ICO output, upload a square high-res image (>=256×256). For JPEG, choose a background color that looks good behind transparent areas.</div>", unsafe_allow_html=True)
     st.markdown("<br>")
-    st.markdown("**Docker**: use the included `Dockerfile` to build and run a containerized version of this app (see below).")
+    
 
 if __name__ == "__main__":
     main()
